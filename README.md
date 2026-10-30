@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+I'm 3holove, an IoT engineering freshman.
 
-<!--
-**3holove/3holove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- Main: C Language
+- Learning: Python, Embedded, Linux
 
-Here are some ideas to get you started:
+### 📚 What I'm doing
+- Finishing C programming exercises
+- Learning calculus & computer basics
+- Working on small embedded demos later
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 My Repositories
+- C-Learning: My C homework & practice codes
+
+### 📫 Contact
+- Email: lovemelater031@outlook.com
